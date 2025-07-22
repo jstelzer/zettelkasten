@@ -2,6 +2,8 @@
 
 This is my recursive philosophy. It’s not a system. It’s a map scratched in the dark by someone who learned to see without light.
 
+"A map scratched in the dark by someone who learned to see with no light."
+
 ## Core Concepts
 - [[001-core-theses]]
 - [[002-definitions]]
