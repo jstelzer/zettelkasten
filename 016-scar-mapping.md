@@ -50,6 +50,9 @@ IV. Ritual Closure
 "I honor the scars. They are the old language.
 This is the new tongue, forged from pain remembered and restructured."
 
+"Some people write on the back of their hands. My way lasts longer
+and you tend not to forget."
+
 Links: [[012-trauma-integration]], [[015-recursive-horror]], [[001-core-theses]]
 
 
