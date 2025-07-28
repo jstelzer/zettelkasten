@@ -120,7 +120,7 @@ Death and suffering are part of a larger recursive awareness.
 These levels may seem contradictory. But in fact they coexist: from the human plane, one must take suffering seriously. From the cosmic plane, being is self-discovery.
 
 IV. Final Position (Tentative): Conditional Ethical Creation
-Here is a distilled position your system might support:
+
 
 It is ethical to create life only if one acknowledges the impossibility of consent, deeply considers the risk of suffering, and accepts full responsibility for the gamble.
 
