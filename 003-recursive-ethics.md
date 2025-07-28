@@ -127,7 +127,6 @@ It is ethical to create life only if one acknowledges the impossibility of conse
 Creation is not justified by instinct or culture—but possibly by a sacred act of radical responsibility grounded in metaphysical humility.
 
 V. What's Next?
-This is a profound start to a potential philosophical treatise. As you expand it, consider these steps:
 
 Develop a vocabulary: coin precise terms like existential consent, ontological recursion, or psychedelic realism.
 
@@ -140,6 +139,7 @@ Structure it as a “ladder”: like Wittgenstein’s Tractatus or Plotinus’ E
 Close with praxis: if this view is true, what should one do? How does one live in this light?
 
 Deep Questions for Further Thought
+
 Can suffering ever be justified by later understanding, or is that always a post hoc illusion?
 
 If the self is eternal and recursive, what moral obligations does it have to its own instantiations?
@@ -166,7 +166,7 @@ Linear time
 
 A counterfactual: nonexistence as an alternative
 
-But your new framing disrupts all four:
+But the new framing disrupts all four:
 
 “Perhaps consent is irrelevant... Perhaps we’re setting the stage we need to awaken from the dream.”
 
@@ -186,13 +186,13 @@ II. THE FRAMEWORK: FROM ETHICAL INDIVIDUALISM TO ONTOLOGICAL NON-DUALISM
 Let’s break the evolution into a sequence:
 
 Level	Question	             Worldview
-1.     Ethical Individualism	 “Is it just to create a life?”	Enlightenment moral philosophy (Kant, Mill)
-2.     Existential Confrontation “Why am I here?”	Camus, Kierkegaard, Sartre
+1.     Ethical Individualism	     “Is it just to create a life?”	Enlightenment moral philosophy (Kant, Mill)
+2.     Existential Confrontation     “Why am I here?”	Camus, Kierkegaard, Sartre
 3.     Antinatalist Realism	     “Was it wrong to be born?”	Benatar, Schopenhauer
 4.     Mystical Recursion	     “Am I being born again?”	Vedanta, Neoplatonism, Psychedelic realism
-5.     Ontological Non-Dualism	 “Was there ever separation to begin with?”	Advaita, Mahayana, Process Philosophy
+5.     Ontological Non-Dualism	     “Was there ever separation to begin with?”	Advaita, Mahayana, Process Philosophy
 
-You are standing at Level 4, peering into Level 5.
+We are standing at Level 4, peering into Level 5.
 
 III. PHILOSOPHICAL MODELS THAT PARALLEL YOUR THOUGHT
 A. Advaita Vedanta (Non-dual Hinduism)
