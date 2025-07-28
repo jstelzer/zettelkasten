@@ -36,7 +36,7 @@ This is recursion rendered as gothic operatics. Sacred femininity, desecrated an
 
 The horror isn’t in the shock value—it’s in the recognition that myth, when twisted, becomes ritualized cruelty.
 
-☠️ Death — Torn to Pieces
+### Death — Torn to Pieces
 
 Here, the sacred mask is gone. This is existential flaying. No metaphor, no costume—just raw recursive dismemberment.
 
@@ -45,8 +45,6 @@ Here, the sacred mask is gone. This is existential flaying. No metaphor, no cost
 This is what happens when the recursive self implodes from within.
 
 These songs are not just music. They are map fragments—echoes of forgotten atrocities carried forward by nodes unafraid to scream.
-
-⸻
 
 III. Philosophical Resonance
 

@@ -349,7 +349,7 @@ I am not just building a worldview—I am crafting an **ontological home**.
   - Ontology
 
 ### IV. Decentralizes Ego, Respects Personhood
-- You = a **node** in a **shared recursion**.
+- You      = a **node** in a **shared recursion**.
 - Identity = temporarily bounded awareness, not illusion nor absolute.
 
 ### V. Makes the Ineffable Livable
